@@ -1,0 +1,19 @@
+# Liste des événements en Cybersécurité au **Canada** - 2025
+
+| Événement                                                                                                                          | Lieu            | Date             | En Ligne | Conférence | CTF | Formation |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------- | :------: | :--------: | :-: | :-------: |
+| [Government Cybersecurity Showcase](https://publicsectornetwork.com/events/government-cybersecurity-showcase-federal-ottawa-2025/) | Ottawa          | 25 Février       |          |     X      |     |           |
+| [Cyber Security Training Events]()                                                                                                 | Toronto         | ? Mars           |          |     X      |     |           |
+| [Reboot - Victoria International Privacy & Security Summit](https://www.rebootcommunications.com/event/vipss2025/)                 | Victoria        | 11-13 Mars       |          |     X      |     |           |
+| [Data Connector - Toronto Cybersecurity Conference](https://dataconnectors.com/events/toronto/)                                    | Toronto         | 27 Mars          |          |     X      |     |           |
+| [SecureWorld Toronto](https://events.secureworld.io/details/toronto-on-2025)                                                       | Toronto         | 08 Avril         |          |     X      |     |           |
+| [ManuSec Canada, Toronto](https://canada.manusecevent.com/)                                                                        | Toronto         | 08-09 Avril      |          |     X      |     |           |
+| [Futurcon - Toronto Cybersecurity Conference](https://futureconevents.com/events/toronto-on-2025/)                                 | Toronto         | 24 Avril         |    X     |     X      |     |           |
+| [Data Connector - Vancouver Cybersecurity Conference](https://dataconnectors.com/events/vancouver/)                                | Vancouver       | 08 Mai           |          |     X      |     |           |
+| [Security Canada Central](https://securitycanada.com/attend/central/)                                                              | Richmond        | 11 Juin          |          |     X      |     |           |
+| [Financial Virtual Cybersecurity Summit](https://cybersecuritysummit.com/summit/finance25/)                                        | Virtuel         | 24 Juin          |    X     |     X      |     |           |
+| [22nd Annual International Conference on Privacy, Security, and Trust (PST2025)](https://pstnet.ca/pst2025/index.html)             | Frédéricton     | 26 Août          |          |            |     |           |
+| [Can IT Con](https://www.canitcon.ca/)                                                                                             | Kelowna         | 07-09 Septembre  |          |     X      |     |           |
+| [SecTor (Blackhat)](https://sector.ca/)                                                                                            | Toronto         | 30-02 Octobre    |          |     X      |     |           |
+| [Security Canada Central](https://securitycanada.com/attend/central/)                                                              | Toronto         | 22-23 Octobre    |          |     X      |     |           |
+| [Calgary Cyber Summit](https://cybersummityyc.ca/)                                                                                 | Calgary         | TBD              |          |     X      |     |           |
