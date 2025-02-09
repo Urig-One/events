@@ -2,7 +2,7 @@
 
 | Événement                                                                   | Lieu            | Date            | En Ligne | Conférence | CTF | Formation |
 | --------------------------------------------------------------------------- | --------------- | --------------- | :------: | :--------: | :-: | :-------: |
-| [Wild West Hackinfest](https://wildwesthackinfest.com/conference/registration/)| Deadwood     | 05-07 Février   |    X     |     X      |     |           |
+| [WWHF Mile High](https://wildwesthackinfest.com/wild-west-hackin-fest-at-mile-high-2025/)| Denver     | 05-07 Février   |    X     |     X      |     |           |
 | [Cactuscon](https://www.cactuscon.com/)                                     | Arizona         | 14-15 Février   |          |     X      |     |           |
 | [Black Hat Spring Trainings](https://www.blackhat.com/tr-25/)               | Washinton       | 25-28 Mars      |          |     X      |     |           |
 | [Hack Space Con](https://www.hackspacecon.com/)                             | Cape Canaveral  | 11-15 Mai       |
@@ -14,4 +14,5 @@
 | [Defcon](https://defcon.org/)                                               | Las Vegas       | 07-10 Août      |          |     X      |  X  |           |
 | [BSides SLC](https://www.bsidesslc.org/)                                    | Utah            | 10-11 Août      |          |     X      |     |           |
 | [GrrCON](https://grrcon.com/)                                               | Michigan        | 02-03 Octobre   |          |     X      |     |           |
+| [Wild West Hackin’ Fest](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2025/)| Deadwood     | 08-10 Octobre   |    X     |     X      |     |           |
 | [Ekoparty](https://ekoparty.org/)                                           | Buenos Aires    | 13-15 Novembre  |          |     X      |     |           |
