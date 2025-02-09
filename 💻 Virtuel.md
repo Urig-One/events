@@ -10,5 +10,6 @@
 | [Annual Advanced Forum On Global Encryption, Cloud & Cyber Export Controls 2025](https://www.americanconference.com/global-encryption)                          | Virtuel | 26 Mars          |
 | [AI Cybersecurity Summit 2025](https://www.sans.org/cyber-security-training-events/ai-summit-2025)                                                              | Virtuel | 31 Mars          |
 | [Futurcon - Toronto Cybersecurity Conference](https://futureconevents.com/events/toronto-on-2025/)                                                              | Virtuel | 24 Avril         |   
+| [iHack](https://hfctf.ca/en/ctfs/ihack/)                                                                                                                        | Virtuel | ? Juin           |
 | [Cyber Security in Healthcare Conference](https://sparkconferences.com/cyber)                                                                                   | Virtuel | 18 Juin          |
 | [Wild West Hackin’ Fest](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2025/)| Virtuel      | 08-10 Octobre   |    X     |     X      |     |           |
