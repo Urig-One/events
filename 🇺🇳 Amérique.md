@@ -17,4 +17,4 @@
 | [BSides SLC](https://www.bsidesslc.org/)                                    | Utah            | 10-11 Août      |          |     X      |     |           |
 | [GrrCON](https://grrcon.com/)                                               | Michigan        | 02-03 Octobre   |          |     X      |     |           |
 | [Wild West Hackin’ Fest](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2025/)| Deadwood     | 08-10 Octobre   |    X     |     X      |     |           |
-| [Ekoparty](https://ekoparty.org/)                                           | Buenos Aires    | 13-15 Novembre  |          |     X      |     |           |
+| [Ekoparty](https://ekoparty.org/)                                           | Buenos Aires, AR  | 13-15 Novembre  |          |     X      |     |           |
