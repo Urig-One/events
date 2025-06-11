@@ -8,7 +8,9 @@
 | [Hack Space Con](https://www.hackspacecon.com/)                             | Cape Canaveral  | 11-15 Mai       |
 | [NaloCon](https://nolacon.com/)                                             | Chicago         | 14-18 Mai       |          |     X      |     |     $     |
 | [Hack Red Con](https://hackredcon.com/)                                     | Louisville      | 12 Juillet      |          |     X      |     |           |
-| [Hope](https://www.hope.net/)                                               | New York        | 12-14 Juillet<br>À chaque deux ans | | X  |   |           |          
+| [Hope](https://www.hope.net/)                                               | New York        | 12-14 Juillet<br>À chaque deux ans || X |     |           | 
+| [BSides CDMX](https://bsidescdmx.org/en)                                    | Mexico, MX      | 18 Juillet      |          |     X      |     |           | 
+| [BSides ABQ](https://bsidesabq.org/)                                        | Albuquerque     | 25-26 Juillet   |          |     X      |     |           | 
 | [BlackHat USA](https://www.blackhat.com/)                                   | Las Vegas       | 02-05 Août      |          |     X      |     |     S     |
 | [BSides LV](https://bsideslv.org/)                                          | Las Vegas       | 06-07 Août      |          |     X      |     |           |
 | [Defcon](https://defcon.org/)                                               | Las Vegas       | 07-10 Août      |          |     X      |  X  |           |
