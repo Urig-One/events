@@ -2,7 +2,7 @@
 
 | Événement                                                                | Lieu            | Date             | En Ligne | Conférence | CTF | Formation |
 | ------------------------------------------------------------------------ | --------------- | ---------------- | :------: | :--------: | :-: | :-------: |
-| [SéQCure](https://seqcure.org/a-propos/)                                 | Québec          | 26 et 27 Février |          |     X      |     |           |
+| [SéQCure](https://seqcure.org/a-propos/)                                 | Québec          | 25 et 26 Février |          |     X      |     |           |
 | [Coofoo](https://confoo.ca/)                                             | Montréal        | 26 au 28 Février |          |     X      |     |     $$    |
 | [HackQc](https://hackqc.donneesquebec.ca/)                               | Shawinigan      | ? Mars           |          |     X      |     |           |
 | [25th Global Conference on Cyber Security and Cloud Engineering (GCCSCE)](https://globalconference.ca/conference/25th-global-conference-on-cyber-security-and-cloud-engineering) | Montréal | 21 Mars |          |     X      |     |           |
