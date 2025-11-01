@@ -1,4 +1,4 @@
-Liste des événements en Cybersécurité en Europe - 2025
+# Liste des événements en Cybersécurité en **Europe** - 2025
 
 | Événement             | Lieu          | Date               | Site                                                | Online |     |
 | --------------------- | ------------- | ------------------ | --------------------------------------------------- | ------ | --- |
